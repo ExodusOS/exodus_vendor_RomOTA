@@ -1,12 +1,12 @@
 {
    "response": [
     {
-      "datetime": 1657899999,
-      "filename": "ExodusOS-18.1-20220715-nightly-onclite.zip",
-      "id": "99a51965265b32e6634551e2a3e657a9",
+      "datetime": 1657980129,
+      "filename": "ExodusOS-18.1-20220716-NIGHTLY-onclite.zip",
+      "id": "2ef0e582fb1079bc9def6cd995200439",
       "romtype": "nightly",
-      "size": 841987773,
-      "url": "https://sourceforge.net/projects/exodusos/files/ExodusOS/onclite/raccoon/ExodusOS-18.1-20220715-nightly-onclite.zip/download",
+      "size": 842003218,
+      "url": "https://sourceforge.net/projects/exodusos/files/ExodusOS/onclite/raccoon/ExodusOS-18.1-20220716-NIGHTLY-onclite.zip/download",
       "version": "raccoon",
     }
   ]
