@@ -3,8 +3,8 @@
 
 #modify values below
 #leave blank if not used
-devices=("codename1" "codename2") #ex: onclite
-buildtype="type" #choose from nightly/release
+devices=("onclite" "olives") #ex: guacamole
+buildtype="nightly" #choose from nightly/release
 
 for device in ${devices[*]}; do
 #don't modify from here
@@ -33,9 +33,8 @@ echo '{
       "romtype": "'$buildtype'",
       "size": '$size',
       "url": "https://sourceforge.net/projects/exodusos/files/ExodusOS/'$device'/'$version'/'$zip_only'/download",
-      "version": "'$version'",
+      "version": "'$version'"
     }
   ]
 }' >> $device.json
-
 done
