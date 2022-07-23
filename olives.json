@@ -1,12 +1,12 @@
 {
    "response": [
     {
-      "datetime": 1657989935,
-      "filename": "ExodusOS-18.1-20220716-NIGHTLY-olives.zip",
-      "id": "19f01503d60b8b8d30d2690a83eb78d8",
+      "datetime": 1658438246,
+      "filename": "ExodusOS-18.1-20220721-NIGHTLY-olives.zip",
+      "id": "de475ff685cc23d0389f3a62fd913aa1",
       "romtype": "nightly",
-      "size": 818233574,
-      "url": "https://sourceforge.net/projects/exodusos/files/ExodusOS/olives/raccoon/ExodusOS-18.1-20220716-NIGHTLY-olives.zip/download",
+      "size": 818959040,
+      "url": "https://sourceforge.net/projects/exodusos/files/ExodusOS/olives/raccoon/ExodusOS-18.1-20220721-NIGHTLY-olives.zip/download",
       "version": "raccoon"
     }
   ]
