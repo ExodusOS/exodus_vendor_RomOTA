@@ -1,13 +1,13 @@
 {
    "response": [
     {
-      "datetime": 1658056267,
-      "filename": "ExodusOS-18.1-20220717-NIGHTLY-onclite.zip",
+      "datetime": 1670968800,
+      "filename": "ExodusOS-12.1-20221212-onclite-squirrel.zip",
       "id": "925751da9884b244ce8eebcdcce3254c",
       "romtype": "nightly",
       "size": 841976963,
-      "url": "https://sourceforge.net/projects/exodusos/files/ExodusOS/onclite/raccoon/ExodusOS-18.1-20220717-NIGHTLY-onclite.zip/download",
-      "version": "raccoon"
+      "url": "https://roms.cirrus-ci.workers.dev/0:/onclite/ExodusOS-12.1-20221212-onclite-squirrel.zip",
+      "version": "squirrel"
     }
   ]
 }
