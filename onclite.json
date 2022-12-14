@@ -8,15 +8,6 @@
       "romtype": "pre-release",
       "url": "https://roms.cirrus-ci.workers.dev/0:/onclite/ExodusOS-12.1-20221212-onclite-squirrel.zip",
       "version": "squirrel"
-    },
-    {
-      "datetime": 1670970556,
-      "filename": "ExodusOS-12.1-20221212-onclite-squirrel.zip",
-      "id": "925751da9884b244ce8eebcdcce3254c",
-      "size": 851986963,
-      "romtype": "pre-release",
-      "url": "https://roms.cirrus-ci.workers.dev/0:/onclite/ExodusOS-12.1-20221212-onclite-squirrel.zip",
-      "version": "squirrel"
-    }  
+    } 
   ]
 }
