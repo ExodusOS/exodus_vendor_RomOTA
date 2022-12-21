@@ -1,13 +1,13 @@
 {
-   "response": [
+  "response": [
     {
-      "datetime": 1671573046,
-      "filename": "ExodusOS-12.1-20221220-onclite-squirrel.zip",
-      "id": "78d157cc297e5372be9e2b243c5795d8",
-      "size": 938088152,
-      "romtype": "stable",
-      "url": "https://sourceforge.net/projects/rom-builders/files/onclite/ExodusOS-12.1-20221220-onclite-squirrel.zip/download",
-       "version": "squirrel"
-    } 
+      "filename": "ExodusOS-12.1-20221221-onclite-squirrel.zip",
+      "url": "https://sourceforge.net/projects/exodusos/files/ExodusOS/onclite/squirrel/ExodusOS-12.1-20221221-onclite-squirrel.zip/download",
+      "datetime": 1671648003,
+      "id": "0a836f3d2d2abb3f18c679e6f6173db5",
+      "size": 938408277,
+      "version": "squirrel",
+      "romtype": "stable"
+    }
   ]
 }
