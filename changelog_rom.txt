@@ -41,8 +41,6 @@ Short changelog:
 - Use color accent for charging animation
 - Optimization and added missing system animation
 - Set lockscreen clock font dynamically
-- Make Quick Unlock compatible with long PIN/Password
-- Forward port lockscreen quick unlock
 - Use user fonts for Material UI themes
 - Update some Setting's animation 
 - More optimization's and fix's
