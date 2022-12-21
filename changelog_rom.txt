@@ -1,0 +1,48 @@
+Only Exodus OS
+==================================
+20th December, 2022
+
+Short changelog:
+- Add Network speed setting to status bar
+- Add status bar padding options
+- Add Status bar clock chip
+- Add Transparent QS customization
+- ADd toggle data usage view on QS footer
+- Make roaming indicator optional
+- Bring back old style mobile data indicators
+- Add option to Display Data Disabled Indicator 
+- Allow using 4G icon instead LTE
+- Add DND & Rate settings to flash on call
+- Allow to flash on call only when entirely silent
+- Use navigation handle dimens from Android 13
+- Further shift the clock above the center
+- Reduce QS tile padding
+- Improve clock on lock screen
+- Add Flashlight blink on incoming calls
+- Allow disabling ripple effect on unlock
+- Add Live Volume Steps 
+- Add Quick Screen Unlock
+- Add QS tile layout settings
+- Add signal and wifi icon style theming
+- Add window ignore secure feature
+- Add unlock high FPS in games
+- Add unlimited Google photo storage
+- Add three-fingers-swipe to screenshot
+- Add clear button to the recents menu
+- Add support for themed icons
+- Add button to restart SystemUI 
+- Add RenderingJitter test
+- Add PixelProps Utils
+- Build {OnePlusSans, Ubuntu, Exo2} font overlays
+- Add Repainter support
+- Use Monet colors for power menu
+- Follow light/dark theme in power menu
+- Import and switch to OOS 12 ui effects
+- Use color accent for charging animation
+- Optimization and added missing system animation
+- Set lockscreen clock font dynamically
+- Make Quick Unlock compatible with long PIN/Password
+- Forward port lockscreen quick unlock
+- Use user fonts for Material UI themes
+- Update some Setting's animation 
+- More optimization's and fix's
