@@ -1,1 +1,13 @@
-
+{
+  "response": [
+    {
+      "filename": "ExodusOS-12.1-20221222-spes-squirrel.zip",
+      "url": "https://sourceforge.net/projects/exodusos/files/ExodusOS/spes/squirrel/ExodusOS-12.1-20221222-spes-squirrel.zip/download",
+      "datetime": 1671727381,
+      "id": "944dd9c75a345f4ea0746c8b066a3d7c",
+      "size": 1005248980,
+      "version": "squirrel",
+      "romtype": "stable"
+    }
+  ]
+}
