@@ -23,7 +23,8 @@ Short changelog:
 - Enable advanced reboot by default
 - Disable keyguard screen off animation if we use split notification shade
 - Settings: Address a memory leak
-- vendor: Add 720p bootanimation again 
+- vendor: Add 720p bootanimation again
+- Remove beta tag for themed icons
 
 ==================================
 20th December, 2022
