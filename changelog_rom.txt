@@ -1,5 +1,31 @@
 Only Exodus OS
 ==================================
+30th December, 2022
+
+Short changelog:
+- Add ripple animation to task menu items
+- Introduce overview scrolling scale animation in Launcher
+- Add memory info in Launcher
+- Add recents and app drawer opacity customization in Launcher
+- Add toggle themed icons for all apps in Launcher
+- Added Grid style recents in Launcher
+- Add Reset battery stats
+- Add support for Smart Charging
+- Add support for app signature spoofing
+- Add Cloudflare DNS as a private DNS provider
+- Add AdGuard DNS as a private DNS Provider
+- Allow disabling netflix spoofing
+- Mute logcat spam
+- Address a memory leak
+- Redesign our toolbar in Settings
+- Redesign layout in Settings
+- Kill trust interface hint on first boot
+- Enable advanced reboot by default
+- Disable keyguard screen off animation if we use split notification shade
+- Settings: Address a memory leak
+- vendor: Add 720p bootanimation again 
+
+==================================
 20th December, 2022
 
 Short changelog:
@@ -44,29 +70,3 @@ Short changelog:
 - Use user fonts for Material UI themes
 - Update some Setting's animation 
 - More optimization's and fix's
-
-==================================
-30th December, 2022
-
-Short changelog:
-- Add ripple animation to task menu items
-- Introduce overview scrolling scale animation in Launcher
-- Add memory info in Launcher
-- Add recents and app drawer opacity customization in Launcher
-- Add toggle themed icons for all apps in Launcher
-- Added Grid style recents in Launcher
-- Add Reset battery stats
-- Add support for Smart Charging
-- Add support for app signature spoofing
-- Add Cloudflare DNS as a private DNS provider
-- Add AdGuard DNS as a private DNS Provider
-- Allow disabling netflix spoofing
-- Mute logcat spam
-- Address a memory leak
-- Redesign our toolbar in Settings
-- Redesign layout in Settings
-- Kill trust interface hint on first boot
-- Enable advanced reboot by default
-- Disable keyguard screen off animation if we use split notification shade
-- Settings: Address a memory leak
-- vendor: Add 720p bootanimation again 
