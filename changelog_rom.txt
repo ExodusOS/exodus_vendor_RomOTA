@@ -46,8 +46,9 @@ Short changelog:
 - More optimization's and fix's
 
 ==================================
-29th December, 2022
+30th December, 2022
 
+Short changelog:
 - Add ripple animation to task menu items
 - Introduce overview scrolling scale animation in Launcher
 - Add memory info in Launcher
@@ -66,3 +67,6 @@ Short changelog:
 - Redesign layout in Settings
 - Kill trust interface hint on first boot
 - Enable advanced reboot by default
+- Disable keyguard screen off animation if we use split notification shade
+- Settings: Address a memory leak
+- vendor: Add 720p bootanimation again 
