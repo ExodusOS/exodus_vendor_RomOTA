@@ -1,5 +1,40 @@
 Only Exodus OS
 ==================================
+2th January, 2023
+
+Short changelog:
+- Switch to jemalloc memory allocator 
+- Support wildcards in cached hosts file 
+- Sort and cache hosts file data for fast lookup 
+- on 64-bit, zero the leading stack canary byte 
+- Add support for opening zip files by fd paths 
+- replace VLA formatting with dprintf-like function 
+- fix undefined out-of-bounds accesses in sched.h 
+- replace brk and sbrk with stubs
+- allow reboot recovery on devices without bootloader 
+- Bring back custom charger percent text 
+- always return unlocked in GetDeviceLockStatus 
+- Increase max_map_count for hardened malloc 
+- Increase readahead window multiplier for POSIX_FADV_SEQUENTI… 
+- Set TCP memory size 
+- Remove redundant settings in init.rc for cpu scaling_max_freq 
+- Hide Magisk better 
+- Don't enable f2fs iostat by default 
+- Disable native stats collection service 
+- Don't start console unless asked to 
+- Fix data lost in zram_swap if system rebooted 
+- Set /dev/uinput as 0666 to fix fingerprint sensor on some… 
+- Avoid divide-by-zero in performance measurement 
+- Modifying /dev/memcg permissions 
+- Reboot to recovery on panic by default to allow reading pstore 
+- Set /system/etc/init.d/* permissions 
+- Set permissions on /system/addon.d/ and files within. 
+- Disable dm-verity when AVB is permissive 
+- Add fsync after write split file name
+- Increase the minimal remount scratch size to 64MiB for F2FS scratch
+- Fix checkpoint=disable GC threshold fallback mechanism
+
+==================================
 30th December, 2022
 
 Short changelog:
