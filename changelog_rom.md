@@ -33,7 +33,6 @@ Short changelog:
 - Add fsync after write split file name
 - Increase the minimal remount scratch size to 64MiB for F2FS scratch
 - Fix checkpoint=disable GC threshold fallback mechanism
-
 ==================================
 30th December, 2022
 
@@ -60,7 +59,6 @@ Short changelog:
 - Settings: Address a memory leak
 - vendor: Add 720p bootanimation again
 - Remove beta tag for themed icons
-
 ==================================
 20th December, 2022
 
