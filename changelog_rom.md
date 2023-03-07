@@ -2,7 +2,7 @@
 
 ### 2th January, 2023
 
-Short changelog:
+***Short changelog:***
 - Switch to jemalloc memory allocator 
 - Support wildcards in cached hosts file 
 - Sort and cache hosts file data for fast lookup 
@@ -38,7 +38,7 @@ Short changelog:
 
 ### 30th December, 2022
 
-Short changelog:
+***Short changelog:***
 - Add ripple animation to task menu items
 - Introduce overview scrolling scale animation in Launcher
 - Add memory info in Launcher
@@ -66,7 +66,7 @@ Short changelog:
 
 ### 20th December, 2022
 
-Short changelog:
+***Short changelog:***
 - Add Network speed setting to status bar
 - Add status bar padding options
 - Add Status bar clock chip
